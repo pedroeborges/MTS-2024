@@ -1,0 +1,1 @@
+# A importância do hardening para a proteçao de workloads na AWS
