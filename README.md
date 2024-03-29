@@ -9,7 +9,7 @@ A implementação da segurança da informação é baseada em 3 pilares fundamen
 
 É de suma importância que haja equilíbrio entre eles, para que um plano de segurança seja eficaz. 
 
-O *[hardening](Hardening.md)* é um dos processos que é muito útil a tarefa de identificação de falhas e implementação de medidas de segurança.  
+O *[hardening](docs/Hardening.md)* é um dos processos que é muito útil a tarefa de identificação de falhas e implementação de medidas de segurança.  
 
 **Conceito de *hardening***:
 É o processo de fortalecer sistemas, redes, softwares, infraestruturas de TI contra ciberataques, minimizando ameaças a um alvo específico, por meio de redução de vulnerabilidades e ampliação de medidas defensivas.
@@ -65,4 +65,3 @@ Os padrões  do CIS cobrem uma ampla gama de tópicos, incluindo gerenciamento d
 **Links úteis:**
 [ISO 27001](https://www.27001.pt/)
 [CIS Security](https://www.cisecurity.org/)
-
