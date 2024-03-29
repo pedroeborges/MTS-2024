@@ -1,4 +1,5 @@
 **Conceito de *hardening***:
+
 É o processo de fortalecer sistemas, redes, softwares, infraestruturas de TI contra ciberataques, minimizando ameaças a um alvo específico, por meio de redução de vulnerabilidades e ampliação de medidas defensivas.
 É parte essencial de um plano de continuidade de negócios. 
 
