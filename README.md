@@ -9,4 +9,6 @@ A implementação da segurança da informação é baseada em 3 pilares fundamen
 
 É de suma importância que haja equilíbrio entre eles, para que um plano de segurança seja eficaz. 
 
-O *[hardening](docs/Hardening.md)* é um dos processos que é muito útil a tarefa de identificação de falhas e implementação de medidas de segurança.  
+O *[hardening](docs/Hardening.md)* é um dos processos que é muito útil a tarefa de identificação de falhas e implementação de medidas de segurança.
+
+
