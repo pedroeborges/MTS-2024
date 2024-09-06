@@ -12,7 +12,7 @@ A implementação da segurança da informação é baseada em 3 pilares fundamen
 O *[hardening](docs/Hardening.md)* é um dos processos que é muito útil a tarefa de identificação de falhas e implementação de medidas de segurança.
 
 ### **Slides**
-*[Apresentação]([slides/slides.md](https://github.com/pedroeborges/MTS-2024/blob/a69b325f92146de5e5d15872d316354342e27d44/slides/A%20importancia%20do%20hardening%20para%20a%20prote%C3%A7%C3%A3o%20de%20workloads%20na%20AWS.pdf))*
+*[Apresentação](https://github.com/pedroeborges/MTS-2024/blob/a69b325f92146de5e5d15872d316354342e27d44/slides/A%20importancia%20do%20hardening%20para%20a%20prote%C3%A7%C3%A3o%20de%20workloads%20na%20AWS.pdf)*
 
 ### **Ferramentas para análise de vulnerabilidades e validação de ajustes**
 
